@@ -27,5 +27,5 @@ This report analyses barriers faced by refugees in accessing healthcare in Birmi
 
 ## 🎯 Client Focus
 
-**NHS Birmingham and Solihull ICB** – Improving inclusive healthcare access for refugees through systemic analysis and practical recommendations.
+**NHS Birmingham** – Improving inclusive healthcare access for refugees through systemic analysis and practical recommendations.
 
